@@ -1,0 +1,6 @@
+@CNPJConsultation_HostAddress = http://localhost:5107
+
+GET {{CNPJConsultation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

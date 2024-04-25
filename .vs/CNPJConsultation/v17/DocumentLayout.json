@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|c:\\users\\rafae\\source\\repos\\cnpjconsultation\\cnpjconsultation\\models\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|solutionrelative:cnpjconsultation\\models\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|c:\\users\\rafae\\source\\repos\\cnpjconsultation\\cnpjconsultation\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|solutionrelative:cnpjconsultation\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|c:\\users\\rafae\\source\\repos\\cnpjconsultation\\cnpjconsultation\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|solutionrelative:cnpjconsultation\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|c:\\users\\rafae\\source\\repos\\cnpjconsultation\\cnpjconsultation\\models\\secondaryactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|solutionrelative:cnpjconsultation\\models\\secondaryactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|c:\\users\\rafae\\source\\repos\\cnpjconsultation\\cnpjconsultation\\models\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|solutionrelative:cnpjconsultation\\models\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|c:\\users\\rafae\\source\\repos\\cnpjconsultation\\cnpjconsultation\\controllers\\cnpjcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|solutionrelative:cnpjconsultation\\controllers\\cnpjcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|c:\\users\\rafae\\source\\repos\\cnpjconsultation\\cnpjconsultation\\services\\consultmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|solutionrelative:cnpjconsultation\\services\\consultmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|c:\\users\\rafae\\source\\repos\\cnpjconsultation\\cnpjconsultation\\models\\qsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|solutionrelative:cnpjconsultation\\models\\qsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|c:\\users\\rafae\\source\\repos\\cnpjconsultation\\cnpjconsultation\\models\\extra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|solutionrelative:cnpjconsultation\\models\\extra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|c:\\users\\rafae\\source\\repos\\cnpjconsultation\\cnpjconsultation\\cnpjconsultation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|solutionrelative:cnpjconsultation\\cnpjconsultation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|c:\\users\\rafae\\source\\repos\\cnpjconsultation\\cnpjconsultation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|solutionrelative:cnpjconsultation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|c:\\users\\rafae\\source\\repos\\cnpjconsultation\\cnpjconsultation\\interfaces\\iconsult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E929ABB-61A1-4640-B0F6-1F0054C06421}|CNPJConsultation\\CNPJConsultation.csproj|solutionrelative:cnpjconsultation\\interfaces\\iconsult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CnpjController.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Controllers\\CnpjController.cs",
+              "RelativeDocumentMoniker": "CNPJConsultation\\Controllers\\CnpjController.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Controllers\\CnpjController.cs",
+              "RelativeToolTip": "CNPJConsultation\\Controllers\\CnpjController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAcwDcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T23:20:11.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsultManager.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Services\\ConsultManager.cs",
+              "RelativeDocumentMoniker": "CNPJConsultation\\Services\\ConsultManager.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Services\\ConsultManager.cs",
+              "RelativeToolTip": "CNPJConsultation\\Services\\ConsultManager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T23:06:09.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CNPJConsultation.http",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\CNPJConsultation.http",
+              "RelativeDocumentMoniker": "CNPJConsultation\\CNPJConsultation.http",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\CNPJConsultation.http",
+              "RelativeToolTip": "CNPJConsultation\\CNPJConsultation.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-24T23:37:57.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IConsult.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Interfaces\\IConsult.cs",
+              "RelativeDocumentMoniker": "CNPJConsultation\\Interfaces\\IConsult.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Interfaces\\IConsult.cs",
+              "RelativeToolTip": "CNPJConsultation\\Interfaces\\IConsult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T23:21:24.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "CNPJConsultation\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Models\\Company.cs",
+              "RelativeToolTip": "CNPJConsultation\\Models\\Company.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAhwGAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:32:56.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "CNPJConsultation\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Models\\Address.cs",
+              "RelativeToolTip": "CNPJConsultation\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:29:33.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Qsa.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Models\\Qsa.cs",
+              "RelativeDocumentMoniker": "CNPJConsultation\\Models\\Qsa.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Models\\Qsa.cs",
+              "RelativeToolTip": "CNPJConsultation\\Models\\Qsa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:28:39.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Extra.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Models\\Extra.cs",
+              "RelativeDocumentMoniker": "CNPJConsultation\\Models\\Extra.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Models\\Extra.cs",
+              "RelativeToolTip": "CNPJConsultation\\Models\\Extra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:28:26.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Models\\Billing.cs",
+              "RelativeDocumentMoniker": "CNPJConsultation\\Models\\Billing.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Models\\Billing.cs",
+              "RelativeToolTip": "CNPJConsultation\\Models\\Billing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:27:38.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecondaryActivity.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Models\\SecondaryActivity.cs",
+              "RelativeDocumentMoniker": "CNPJConsultation\\Models\\SecondaryActivity.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Models\\SecondaryActivity.cs",
+              "RelativeToolTip": "CNPJConsultation\\Models\\SecondaryActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:26:21.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Models\\MainActivity.cs",
+              "RelativeDocumentMoniker": "CNPJConsultation\\Models\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Models\\MainActivity.cs",
+              "RelativeToolTip": "CNPJConsultation\\Models\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:24:50.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Program.cs",
+              "RelativeDocumentMoniker": "CNPJConsultation\\Program.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\CNPJConsultation\\CNPJConsultation\\Program.cs",
+              "RelativeToolTip": "CNPJConsultation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T22:15:30.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
